@@ -24,7 +24,7 @@ Com o arquivo `index.js` aberto, você deve completar onde não possui código c
 
 Nesse desafio não será necessário alterar o código de nenhuma rota, **apenas dos middlewares**. Os testes irão também testar o funcionamento das rotas mas o resultado depende apenas da dos middlewares.
 
-Aqui teremos uma breve descrição do que cada middleware deve fazer e na seção *Especificação dos testes* você verá com mais detalhes o que precisa ser feito para satisfazer cada teste.
+Aqui teremos uma breve descrição do que cada middleware deve fazer e na seção ***Especificação dos testes*** você verá com mais detalhes o que precisa ser feito para satisfazer cada teste.
 
 ### checksExistsUserAccount
 
